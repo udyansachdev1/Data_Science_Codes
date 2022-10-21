@@ -1,0 +1,19 @@
+Keywords,Keywords,Score
+Hello,Hello,100
+Hello,Hllo,75
+Hello,Helo,75
+Hllo,Hello,75
+Hllo,Hllo,100
+Hllo,Helo,75
+Helo,Hello,75
+Helo,Hllo,75
+Helo,Helo,100
+I play Tennis,I play Tennis,100
+I play Tennis,I play Teis,82
+I play Tennis,Play Tennis,91
+I play Teis,I play Tennis,82
+I play Teis,I play Teis,100
+I play Teis,Play Tennis,73
+Play Tennis,I play Tennis,91
+Play Tennis,I play Teis,80
+Play Tennis,Play Tennis,100
